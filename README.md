@@ -77,6 +77,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+## 🐍 Watch my contribution graph get eaten by the snake!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sreesanthms/sreesanthms/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</div>
+
 ---
 
 <div align="center">
@@ -86,6 +92,5 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=sreesanthms&label=Profile%20views&color=0e75b6&style=flat)
   
 </div>
-
 
 *✨ "Code is like humor. When you have to explain it, it's bad." – Cory House*
