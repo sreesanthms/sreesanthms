@@ -6,10 +6,17 @@
 
 ## 🚀 About Me
 
-**CS BTech Student** | **Full Stack Developer** | **ML Enthusiast**
+<div align="center">
 
-💻 Passionate about building innovative web applications and exploring AI/ML  
-📫 **sreesanthms2005@gmail.com**
+![Student](https://img.shields.io/badge/CS_BTech-Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Developer-green?style=for-the-badge&logo=code&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-Enthusiast-orange?style=for-the-badge&logo=brain&logoColor=white)
+
+![Passion](https://img.shields.io/badge/Passion-Web_Development-red?style=for-the-badge&logo=heart&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-AI/ML-purple?style=for-the-badge&logo=robot&logoColor=white)
+![Email](https://img.shields.io/badge/Email-sreesanthms2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</div>
 
 ## 🛠️ Tech Stack
 
