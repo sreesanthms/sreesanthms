@@ -32,6 +32,17 @@
 
 </div>
 
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sreesanthms.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreesanth-m-s)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreesanthms)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreesanthms2005@gmail.com)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -54,17 +65,6 @@
 - 👯 Looking to collaborate on **open source projects**
 - 💡 Exploring **AI/ML applications** in web development
 - 📚 Strengthening **Data Structures and Algorithms**
-
-## 🤝 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://sreesanthms.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreesanth-m-s)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sreesanthms)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreesanthms2005@gmail.com)
-
-</div>
 
 ## 📈 Activity Graph
 <div align="center">
