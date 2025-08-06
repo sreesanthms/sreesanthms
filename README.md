@@ -60,19 +60,6 @@ I'm a passionate **Computer Science BTech student** with a love for **Full Stack
   <img src="https://github-profile-trophy.vercel.app/?username=sreesanthms&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="sreesanthms's Trophies" />
 </div>
 
-## 💼 Featured Projects
-
-Here are some of my notable projects that showcase my skills:
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sreesanthms&repo=project-name-1&theme=tokyonight)](https://github.com/sreesanthms/project-name-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sreesanthms&repo=project-name-2&theme=tokyonight)](https://github.com/sreesanthms/project-name-2)
-
-</div>
-
-*Note: Replace 'project-name-1' and 'project-name-2' with your actual repository names to showcase your best projects*
-
 ## 🌱 Current Focus
 
 - 🔭 Working on exciting **Full Stack projects**
